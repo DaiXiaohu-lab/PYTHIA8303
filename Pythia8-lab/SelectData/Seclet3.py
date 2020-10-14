@@ -2,7 +2,7 @@
 
 num_of_D0_and_Dstarbar0 = 0
 
-file1 = open('e1.txt', 'w+')
+file1 = open('Select3.txt', 'w+')
 
 f =  open("mymainout-X_3872.csv","r")
 
